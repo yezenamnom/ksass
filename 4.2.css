@@ -9025,3 +9025,7 @@ body :not(.fa) {
 nav.nav-par ul li a {
     font-family: Tajawal !important
 }
+a{
+    cursor: default;
+    color: #fd5949;
+}
